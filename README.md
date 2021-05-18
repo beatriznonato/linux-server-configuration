@@ -1,4 +1,4 @@
-# :computer: Linux Server Configuration
+# Linux Server Configuration :computer: 
 
 ![pep8](https://img.shields.io/badge/pep8online-compliant-green.svg)
 
@@ -183,4 +183,4 @@ Restart Apache `sudo service apache2 restart `
 https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
 
 ### License
-MIT © Beatriz Nonato
+MIT © Beatriz Nonato :woman_technologist:
